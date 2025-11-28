@@ -44,8 +44,4 @@ Please replace the placeholders above with your official company details before 
 **Legal & Privacy**
 - This repository contains templates and guidance, not legal advice. For legal, tax, or compliance questions, consult a qualified professional.
 
-**Next steps**
-- Add or update `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and `LICENSE` with org-specific policies.
-- Fill the corporate placeholders with official registration data.
-
 Thank you for visiting Hixbe's profile — we welcome collaboration and constructive feedback.
