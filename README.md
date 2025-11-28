@@ -1,12 +1,51 @@
-## Hi there 👋
+# Hixbe Limited
 
-<!--
+**About Hixbe**
+- **Hixbe Limited** is a small, focused company building practical software solutions and tools that help teams ship reliably. This repository serves as the organization's GitHub profile and central place for shared templates, workflows, and community files.
 
-**Here are some ideas to get you started:**
+**Mission**
+- Deliver dependable, easy-to-adopt developer tools and integrations that reduce friction and improve productivity for engineering teams.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**What We Do**
+- Build and maintain production-ready libraries, automation, and CI/CD patterns.
+- Provide opinionated templates and workflows to help projects start fast and stay consistent.
+- Offer consultancy, engineering, or integrations on request (commercial arrangements available).
+
+**Values**
+- **Practicality:** Prefer solutions that are simple to understand and maintain.
+- **Quality:** Automate checks to keep code healthy and reliable.
+- **Respect:** Treat contributors and users with clarity and courtesy.
+
+**This Repository**
+- **Purpose:** Host organization-level GitHub assets used across Hixbe projects:
+	- Issue & PR templates
+	- Shared GitHub Actions workflows
+	- `CODEOWNERS`, `CONTRIBUTING.md`, and other community files
+- **Usage:** Projects in the `hixbehq` org can reference these templates and workflows or copy them into individual repositories.
+
+**How to Contribute**
+- Open an issue to request a change or improvement to templates/workflows.
+- Create a branch and submit a pull request describing the change and any repositories affected.
+- Use the included templates for PRs and issues to streamline reviews.
+
+**Corporate & Legal (placeholders)**
+- **Company name:** Hixbe Limited
+- **Registered in:** [Country/Region — replace with actual jurisdiction]
+- **Company number:** [Insert registration number]
+- **Registered office:** [Insert registered office address]
+
+Please replace the placeholders above with your official company details before publishing publicly.
+
+**Contact & Support**
+- **GitHub:** `https://github.com/hixbehq`
+- **Email:** `support@hixbe.com`
+- **Business inquiries:** Open an issue with the `business` label or email the address above.
+
+**Legal & Privacy**
+- This repository contains templates and guidance, not legal advice. For legal, tax, or compliance questions, consult a qualified professional.
+
+**Next steps**
+- Add or update `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and `LICENSE` with org-specific policies.
+- Fill the corporate placeholders with official registration data.
+
+Thank you for visiting Hixbe's profile — we welcome collaboration and constructive feedback.
