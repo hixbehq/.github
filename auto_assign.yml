@@ -23,6 +23,10 @@ issueAssignees:
   - anisafifi
   - theanisafifi
 
+# Number of assignees to add to issues
+# Set to 0 to add all issue assignees (default: 0)
+numberOfIssueAssignees: 0
+
 # A number of assignees to add to the pull request
 # Set to 0 to add all of the assignees.
 # Uses numberOfReviewers if unset.
