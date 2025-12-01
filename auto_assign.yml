@@ -17,6 +17,12 @@ numberOfReviewers: 0
 # assignees:
 #   - assigneeA
 
+# Issue Assignment Configuration
+# A list of users to be assigned to new issues
+issueAssignees:
+  - anisafifi
+  - theanisafifi
+
 # A number of assignees to add to the pull request
 # Set to 0 to add all of the assignees.
 # Uses numberOfReviewers if unset.
